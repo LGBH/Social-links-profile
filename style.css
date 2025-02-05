@@ -101,6 +101,7 @@ body{
 
 .nav__links > a:hover{
     background-color: var(--Green);
+    color: var(--Grey900);
     transition: all .1s ease-in-out;
 }
 
