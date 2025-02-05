@@ -30,6 +30,7 @@ body{
 
 .card__perfil{
     min-width: 35%;
+    max-width: 300px;
     background-color: var(--Grey800);
     font-family: 'Inter', 'Times New Roman', Times, serif;
     font-size: 1rem;
