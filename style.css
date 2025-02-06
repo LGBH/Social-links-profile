@@ -141,7 +141,7 @@ body {
 /* Tablets */
 @media screen and (min-width: 768px) {
     .card__perfil {
-        width: 70%;
+        width: 100%;
         max-width: 400px;
     }
 
